@@ -79,9 +79,16 @@
 являются переспективными в сфере PR.  
  
 Так, продвигая наш проект, как конкрус 
-(по соглашению по продвижению проектов они используют только челенджи или конкурсы)  
-по обучению Пенсионеров - играть в игру (полную выгодный предложений с партнерами), это должно упростить обучение интерфейсу ВТБ [4].  
+(по соглашению по продвижению проектов они используют только челенджи или конкурсы[4])  
+по обучению Пенсионеров - играть в игру (полную выгодный предложений с партнерами), это должно упростить обучение интерфейсу ВТБ [5].  
 Суть игры виртуальная вселенная, по которой можно бродить и  
 знакомится с партнерами ВТБ с помощью квестов {посетите здание, к примеру выставку, такого-то партнера и вы получите виртуальные монетки}.  
 Виртуальные деньги можно использовать для реальных покупок,  
 а так как они виртуальные будет гораздо меньше страха их использовать.
+
+[1]http://www.toyproject.net/ 
+[2]https://www.routledge.com/Intergenerational-Learning-in-Practice-Together-Old-and-Young/Kernan-Cortellesi/p/book/9781138363465
+[3] Изучение социальных сетей как основа эффективеной деятельности сотрудников сферы рекламы и PR, В. В. Смеюха 
+https://cyberleninka.ru/article/n/izuchenie-sotsialnyh-setey-kak-osnova-effektivnoy-deyatelnosti-sotrudnikov-sfery-reklamy-i-pr/viewer
+[4] https://tiktok-wiki.com/statistika-tik-tok.html
+[5] Effects of gamification in the banking industry: A comparison analysis between gamified and non-gamified training. https://research.sit.ac.nz/bitstream/123456789/30/1/Thesis_MarceloSereno_Effects%20of%20gamification%20in%20the%20banking%20industry.pdf https://www.researchgate.net/publication/331088483_Gamification_in_marketing_reality_or_fiction
